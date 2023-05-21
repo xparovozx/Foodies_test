@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test....</string>
+    <string name="basket">Корзина</string>
+    <string name="order_for">Заказать за</string>
+    <string name="empty_basket">Пусто, выберите блюда в каталоге</string>
+    <string name="pick_up_dishes">Подобрать блюда</string>
+    <string name="discount_tag">Со скидкой</string>
+    <string name="done">Готово</string>
+    <string name="empty_catalog">Пусто \nПопробуйте изменить фильтр или выбрать другие варианты</string>
+    <string name="to_basket_for">В корзину за</string>
+    <string name="weight">Вес</string>
+    <string name="energy">Энергетическая ценность</string>
+    <string name="proteins">Белки</string>
+    <string name="fats">Жиры</string>
+    <string name="carbohydrates">Углеводы</string>
+    <string name="search_dish">Найти блюдо</string>
+    <string name="empty_search">Не найдено</string>
+    <string name="enter_search">Введите название блюда, которое ищете</string>
+    <string name="count">шт.,</string>
+</resources>
