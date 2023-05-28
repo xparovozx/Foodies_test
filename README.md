@@ -1,1 +1,1 @@
-An online food ordering application.
+An online food ordering application. (Jetpack Compose)
